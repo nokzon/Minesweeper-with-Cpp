@@ -14,5 +14,6 @@ void chooseDifficulty() {
 
 int main() {
     chooseDifficulty;
+    cout << "main" << endl;
     return 0;
 }
